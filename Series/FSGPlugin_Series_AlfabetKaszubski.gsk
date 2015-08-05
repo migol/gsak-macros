@@ -1,0 +1,48 @@
+#*******************************************
+# MacDescription = Series definition for FSGPlugin_Series
+# MacFileName = FSGPlugin_Series_AlfabetKaszubski.gsk
+# MacAuthor = migolnet
+# MacVersion = 1.00
+#*******************************************
+#-------------------------------------------------------------------------------
+# Series definition file for FSGPlugin_Series.gsk
+#
+# This fata file was created using DataFileCreator_for_FSGPlugin_Series.gsk V1.02
+#-------------------------------------------------------------------------------
+$caches = ""
+$caches = $caches + "01;T;Alfabet kaszubski - Aleja kasztanów;GC5C6WP" + $_Crlf
+$caches = $caches + "02;T;Alfabet kaszubski - Aleja spacerowa w Ostrzycach;GC5C67K" + $_Crlf
+$caches = $caches + "03;T;Alfabet kaszubski - Brama kaszubska;GC5C65B" + $_Crlf
+$caches = $caches + "04;T;Alfabet kaszubski - CEPR;GC5C723" + $_Crlf
+$caches = $caches + "05;T;Alfabet kaszubski - Chmielno Park Kamienny;GC5C68D" + $_Crlf
+$caches = $caches + "06;T;Alfabet kaszubski - Chmielno pla¿a;GC5C698" + $_Crlf
+$caches = $caches + "07;T;Alfabet kaszubski - Cmentarzysko kurhanowe;GC5C6M0" + $_Crlf
+$caches = $caches + "08;T;Alfabet kaszubski - Dwór Wybickich;GC5C6YX" + $_Crlf
+$caches = $caches + "09;T;Alfabet kaszubski - G³az narzutowy;GC5AA6F" + $_Crlf
+$caches = $caches + "10;T;Alfabet kaszubski - Góra Sobótka;GC5C6J1" + $_Crlf
+$caches = $caches + "11;T;Alfabet kaszubski - Góra Trzebañska;GC5C6ZM" + $_Crlf
+$caches = $caches + "12;T;Alfabet kaszubski - Jastrzêbia Góra;GC5C66W" + $_Crlf
+$caches = $caches + "13;T;Alfabet kaszubski - Jaz w Brodnicy Dolnej;GC5C5QQ" + $_Crlf
+$caches = $caches + "14;T;Alfabet kaszubski - Jezioro Bukrzyno Ma³e;GC5C6T6" + $_Crlf
+$caches = $caches + "15;T;Alfabet kaszubski - Jezioro Kniewo;GC5C73D" + $_Crlf
+$caches = $caches + "16;T;Alfabet kaszubski - Jezioro Patulskie;GC5C6YG" + $_Crlf
+$caches = $caches + "17;T;Alfabet kaszubski - Jezioro Zamkowisko;GC5C6R3" + $_Crlf
+$caches = $caches + "18;T;Alfabet kaszubski - Kosza³kowo;GC5C719" + $_Crlf
+$caches = $caches + "19;T;Alfabet kaszubski - Las Erasmusa;GC5C71P" + $_Crlf
+$caches = $caches + "20;T;Alfabet kaszubski - Lasy wokó³ szczytu Wie¿yca;GC5C72H" + $_Crlf
+$caches = $caches + "21;T;Alfabet kaszubski - Marina Z³ota Góra;GC5C5QE" + $_Crlf
+$caches = $caches + "22;T;Alfabet kaszubski - Pierszczewko;GC5C72Y" + $_Crlf
+$caches = $caches + "23;T;Alfabet kaszubski - Pla¿a nad jeziorem Patulskim;GC5C64R" + $_Crlf
+$caches = $caches + "24;T;Alfabet kaszubski - Pla¿a nad jez Raduñskim Dolnym;GC5C6VB" + $_Crlf
+$caches = $caches + "25;T;Alfabet kaszubski - Pla¿a nad jez Raduñskim Górnym;GC5C6XM" + $_Crlf
+$caches = $caches + "26;T;Alfabet kaszubski - Popas nad R¹tami;GC5C70J" + $_Crlf
+$caches = $caches + "27;T;Alfabet kaszubski - Przesmyk miêdzy jeziorami;GC5C6N4" + $_Crlf
+$caches = $caches + "28;T;Alfabet kaszubski - Przydro¿na kapliczka;GC5C6K7" + $_Crlf
+$caches = $caches + "29;T;Alfabet kaszubski - Pó³wysep nad jez. D¹browskim;GC5C6NN" + $_Crlf
+$caches = $caches + "30;T;Alfabet kaszubski - Rezerwat "+$_Quote+"Ostrzycki Las"+$_Quote+";GC5C63Y" + $_Crlf
+$caches = $caches + "31;T;Alfabet kaszubski - Stê¿yca;GC5C6Y0" + $_Crlf
+$caches = $caches + "32;T;Alfabet kaszubski - Widok na jezioro Brodno Ma³e;GC5C6GY" + $_Crlf
+$caches = $caches + "33;T;Alfabet kaszubski - Widok na jezioro K³odno;GC5C6W8" + $_Crlf
+$caches = $caches + "34;T;Alfabet kaszubski - Wygoda £¹czyñska;GC5C663" + $_Crlf
+$caches = $caches + "35;B;Alfabet kaszubski - BONUS;GC5BD2R" + $_Crlf
+$seriesName = "Alfabet Kaszubski"

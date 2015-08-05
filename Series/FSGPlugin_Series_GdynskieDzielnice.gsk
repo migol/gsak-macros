@@ -1,0 +1,36 @@
+#*******************************************
+# MacDescription = Series definition for FSGPlugin_Series
+# MacFileName = FSGPlugin_Series_GdynskieDzielnice.gsk
+# MacAuthor = migolnet
+# MacVersion = 1.00
+#*******************************************
+#-------------------------------------------------------------------------------
+# Series definition file for FSGPlugin_Series.gsk
+#
+# This fata file was created using DataFileCreator_for_FSGPlugin_Series.gsk V1.02
+#-------------------------------------------------------------------------------
+$caches = ""
+$caches = $caches + "01;T;Gdyñskie dzielnice #01 - Babie Do³y;GC5VFDY" + $_Crlf
+$caches = $caches + "02;T;Gdyñskie dzielnice #02 - Chwarzno-Wiczlino;GC5VFDZ" + $_Crlf
+$caches = $caches + "03;T;Gdyñskie dzielnice #03 - Chylonia;GC5VFE6" + $_Crlf
+$caches = $caches + "04;T;Gdyñskie dzielnice #04 - Cisowa;GC5VFEG" + $_Crlf
+$caches = $caches + "05;T;Gdyñskie dzielnice #05 - Dzia³ki Leœne;GC5VFEM" + $_Crlf
+$caches = $caches + "06;T;Gdyñskie dzielnice #06 - D¹browa;GC5VFEZ" + $_Crlf
+$caches = $caches + "07;T;Gdyñskie dzielnice #07 - Grabówek;GC5VFF1" + $_Crlf
+$caches = $caches + "08;T;Gdyñskie dzielnice #08 - Kamienna Góra;GC5VFF5" + $_Crlf
+$caches = $caches + "09;T;Gdyñskie dzielnice #09 - Karwiny;GC5VFG4" + $_Crlf
+$caches = $caches + "10;T;Gdyñskie dzielnice #10 - Leszczynki;GC5VFGA" + $_Crlf
+$caches = $caches + "11;T;Gdyñskie dzielnice #11 - Ma³y Kack;GC5VFGF" + $_Crlf
+$caches = $caches + "12;T;Gdyñskie dzielnice #12 - Ob³u¿e;GC5VFGN" + $_Crlf
+$caches = $caches + "13;T;Gdyñskie dzielnice #13 - Oksywie;GC5VFGT" + $_Crlf
+$caches = $caches + "14;T;Gdyñskie dzielnice #14 - Or³owo;GC5VFGX" + $_Crlf
+$caches = $caches + "15;T;Gdyñskie dzielnice #15 - Pogórze;GC5VFH1" + $_Crlf
+$caches = $caches + "16;T;Gdyñskie dzielnice #16 - Pustki Cisowskie-Demptowo;GC5VFHA" + $_Crlf
+$caches = $caches + "17;T;Gdyñskie dzielnice #17 - Red³owo;GC5VFHB" + $_Crlf
+$caches = $caches + "18;T;Gdyñskie dzielnice #18 - Œródmieœcie;GC5VFHF" + $_Crlf
+$caches = $caches + "19;T;Gdyñskie dzielnice #19 - Wielki Kack;GC5VFHN" + $_Crlf
+$caches = $caches + "20;T;Gdyñskie dzielnice #20 - Witomino-Leœniczówka;GC5VFJ0" + $_Crlf
+$caches = $caches + "21;T;Gdyñskie dzielnice #21 - Witomino-Radiostacja;GC5VFJ4" + $_Crlf
+$caches = $caches + "22;T;Gdyñskie dzielnice #22 - Wzgórze Œw. Maksymiliana;GC5VFJA" + $_Crlf
+$caches = $caches + "23;B;Gdyñskie dzielnice #23 - Bonus;GC5VFKF" + $_Crlf
+$seriesName = "Gdynskie Dzielnice"

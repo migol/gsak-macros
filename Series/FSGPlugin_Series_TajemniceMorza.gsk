@@ -1,0 +1,34 @@
+#*******************************************
+# MacDescription = Series definition for FSGPlugin_Series
+# MacFileName = FSGPlugin_Series_TajemniceMorza.gsk
+# MacAuthor = migolnet
+# MacVersion = 1.00
+#*******************************************
+#-------------------------------------------------------------------------------
+# Series definition file for FSGPlugin_Series.gsk
+#
+# This fata file was created using DataFileCreator_for_FSGPlugin_Series.gsk V1.02
+#-------------------------------------------------------------------------------
+$caches = ""
+$caches = $caches + "01;U;Tajemnice Morza 1;GC5X51E" + $_Crlf
+$caches = $caches + "02;U;Tajemnice Morza 2;GC5X974" + $_Crlf
+$caches = $caches + "03;U;Tajemnice Morza 3;GC5X51Z" + $_Crlf
+$caches = $caches + "05;U;Tajemnice Morza 5;GC5X52G" + $_Crlf
+$caches = $caches + "06;U;Tajemnice Morza 6;GC5X52X" + $_Crlf
+$caches = $caches + "07;U;Tajemnice Morza 7;GC5XZ0A" + $_Crlf
+$caches = $caches + "08;U;Tajemnice Morza 8;GC5P66N" + $_Crlf
+$caches = $caches + "09;U;Tajemnice Morza 9;GC5TNPA" + $_Crlf
+$caches = $caches + "10;U;Tajemnice Morza 10;GC5TNV2" + $_Crlf
+$caches = $caches + "11;U;Tajemnice Morza 11;GC5WWC6" + $_Crlf
+$caches = $caches + "12;U;Tajemnice Morza 12;GC5WWD9" + $_Crlf
+$caches = $caches + "13;U;Tajemnice Morza 13;GC5WWEV" + $_Crlf
+$caches = $caches + "14;U;Tajemnice Morza 14;GC5WWFE" + $_Crlf
+$caches = $caches + "15;U;Tajemnice Morza 15;GC5X0RM" + $_Crlf
+$caches = $caches + "16;U;Tajemnice Morza 16;GC5X0MQ" + $_Crlf
+$caches = $caches + "17;U;Tajemnice Morza 17;GC5X0NM" + $_Crlf
+$caches = $caches + "18;U;Tajemnice Morza 18;GC5X0P6" + $_Crlf
+$caches = $caches + "19;U;Tajemnice Morza 19;GC5X0Q7" + $_Crlf
+$caches = $caches + "20;U;Tajemnice Morza 20;GC5X96Y" + $_Crlf
+$caches = $caches + "21;U;Tajemnice Morza 21;GC5X3J5" + $_Crlf
+$caches = $caches + "22;T;Tajemnice Morza in situ;GC5XD7C" + $_Crlf
+$seriesName = "Tajemnice Morza"
