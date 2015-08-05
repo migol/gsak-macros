@@ -1,0 +1,40 @@
+#*******************************************
+# MacDescription = Series definition for FSGPlugin_Series
+# MacFileName = FSGPlugin_Series_SciezkaKsJanaAeltermanna.gsk
+# MacAuthor = migolnet
+# MacVersion = 1.00
+#*******************************************
+#-------------------------------------------------------------------------------
+# Series definition file for FSGPlugin_Series.gsk
+#
+# This fata file was created using DataFileCreator_for_FSGPlugin_Series.gsk V1.02
+#-------------------------------------------------------------------------------
+$caches = ""
+$caches = $caches + "01;T;Œcie¿ka ks. Jana Aeltermanna #1;GC5WRJD" + $_Crlf
+$caches = $caches + "02;T;Œcie¿ka ks. Jana Aeltermanna #2;GC5WRKD" + $_Crlf
+$caches = $caches + "03;T;Œcie¿ka ks. Jana Aeltermanna #3;GC5WRM7" + $_Crlf
+$caches = $caches + "04;T;Œcie¿ka ks. Jana Aeltermanna #4;GC5WRMR" + $_Crlf
+$caches = $caches + "05;T;Œcie¿ka ks. Jana Aeltermanna #5;GC5WRN0" + $_Crlf
+$caches = $caches + "06;T;Œcie¿ka ks. Jana Aeltermanna #6;GC5WMC4" + $_Crlf
+$caches = $caches + "07;T;Œcie¿ka ks. Jana Aeltermanna #7;GC5WMCF" + $_Crlf
+$caches = $caches + "08;T;Œcie¿ka ks. Jana Aeltermanna #8;GC5WMDT" + $_Crlf
+$caches = $caches + "09;T;Œcie¿ka ks. Jana Aeltermanna #9;GC5WMEA" + $_Crlf
+$caches = $caches + "10;T;Œcie¿ka ks. Jana Aeltermanna #10;GC5WRPR" + $_Crlf
+$caches = $caches + "11;T;Œcie¿ka ks. Jana Aeltermanna #11;GC5WRQ6" + $_Crlf
+$caches = $caches + "12;T;Œcie¿ka ks. Jana Aeltermanna #12;GC5WRQN" + $_Crlf
+$caches = $caches + "13;T;Œcie¿ka ks. Jana Aeltermanna #13;GC5WRZA" + $_Crlf
+$caches = $caches + "14;T;Œcie¿ka ks. Jana Aeltermanna #14;GC5WRZW" + $_Crlf
+$caches = $caches + "15;T;Œcie¿ka ks. Jana Aeltermanna #15;GC5WW53" + $_Crlf
+$caches = $caches + "16;T;Œcie¿ka ks. Jana Aeltermanna #16;GC5WMEV" + $_Crlf
+$caches = $caches + "17;T;Œcie¿ka ks. Jana Aeltermanna #17;GC5WQDJ" + $_Crlf
+$caches = $caches + "18;T;Œcie¿ka ks. Jana Aeltermanna #18;GC5WQGK" + $_Crlf
+$caches = $caches + "19;T;Œcie¿ka ks. Jana Aeltermanna #19;GC5WQGB" + $_Crlf
+$caches = $caches + "20;T;Œcie¿ka ks. Jana Aeltermanna #20;GC5WQG5" + $_Crlf
+$caches = $caches + "21;T;Œcie¿ka ks. Jana Aeltermanna #21;GC5WQF4" + $_Crlf
+$caches = $caches + "22;T;Œcie¿ka ks. Jana Aeltermanna #22;GC5WW5V" + $_Crlf
+$caches = $caches + "23;T;Œcie¿ka ks. Jana Aeltermanna #23;GC5WW6M" + $_Crlf
+$caches = $caches + "24;T;Œcie¿ka ks. Jana Aeltermanna #24;GC5WT1H" + $_Crlf
+$caches = $caches + "25;T;Œcie¿ka ks. Jana Aeltermanna #25;GC5WT1V" + $_Crlf
+$caches = $caches + "26;T;Œcie¿ka ks. Jana Aeltermanna #26;GC5WT2B" + $_Crlf
+$caches = $caches + "27;T;Œcie¿ka ks. Jana Aeltermanna #27;GC5WT2P" + $_Crlf
+$seriesName = "Œcie¿ka ks. Jana Aeltermanna"
