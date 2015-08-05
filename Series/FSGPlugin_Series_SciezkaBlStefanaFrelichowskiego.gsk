@@ -1,0 +1,35 @@
+#*******************************************
+# MacDescription = Series definition for FSGPlugin_Series
+# MacFileName = FSGPlugin_Series_SciezkaBlStefanaFrelichowskiego.gsk
+# MacAuthor = migolnet
+# MacVersion = 1.00
+#*******************************************
+#-------------------------------------------------------------------------------
+# Series definition file for FSGPlugin_Series.gsk
+#
+# This fata file was created using DataFileCreator_for_FSGPlugin_Series.gsk V1.02
+#-------------------------------------------------------------------------------
+$caches = ""
+$caches = $caches + "01;T;Œcie¿ka B³. Stefana Frelichowskiego #1;GC5D4H7" + $_Crlf
+$caches = $caches + "02;T;Œcie¿ka B³. Stefana Frelichowskiego #2;GC5CWZ0" + $_Crlf
+$caches = $caches + "03;T;Œcie¿ka B³. Stefana Frelichowskiego #3;GC5CWZE" + $_Crlf
+$caches = $caches + "04;T;Œcie¿ka B³. Stefana Frelichowskiego #4;GC5CX09" + $_Crlf
+$caches = $caches + "05;T;Œcie¿ka B³. Stefana Frelichowskiego #5;GC5CX0T" + $_Crlf
+$caches = $caches + "06;T;Œcie¿ka B³. Stefana Frelichowskiego #6;GC5CX17" + $_Crlf
+$caches = $caches + "07;T;Œcie¿ka B³. Stefana Frelichowskiego #7;GC5CX1X" + $_Crlf
+$caches = $caches + "08;T;Œcie¿ka B³. Stefana Frelichowskiego #8;GC5CX2A" + $_Crlf
+$caches = $caches + "09;T;Œcie¿ka B³. Stefana Frelichowskiego #9;GC5CXZ6" + $_Crlf
+$caches = $caches + "10;T;Œcie¿ka B³. Stefana Frelichowskiego #10;GC5CXZ3" + $_Crlf
+$caches = $caches + "11;T;Œcie¿ka B³. Stefana Frelichowskiego #11;GC5CXYZ" + $_Crlf
+$caches = $caches + "12;T;Œcie¿ka B³. Stefana Frelichowskiego #12;GC5CX2P" + $_Crlf
+$caches = $caches + "13;T;Œcie¿ka B³. Stefana Frelichowskiego #13;GC5CX36" + $_Crlf
+$caches = $caches + "14;T;Œcie¿ka B³. Stefana Frelichowskiego #14;GC5CXYW" + $_Crlf
+$caches = $caches + "15;T;Œcie¿ka B³. Stefana Frelichowskiego #15;GC5CXYQ" + $_Crlf
+$caches = $caches + "16;T;Œcie¿ka B³. Stefana Frelichowskiego #16;GC5CXYM" + $_Crlf
+$caches = $caches + "17;T;Œcie¿ka B³. Stefana Frelichowskiego #17;GC5CXYF" + $_Crlf
+$caches = $caches + "18;T;Œcie¿ka B³. Stefana Frelichowskiego #18;GC5CTG2" + $_Crlf
+$caches = $caches + "19;T;Œcie¿ka B³. Stefana Frelichowskiego #19;GC5CTFM" + $_Crlf
+$caches = $caches + "20;T;Œcie¿ka B³. Stefana Frelichowskiego #20;GC5CTFG" + $_Crlf
+$caches = $caches + "21;T;Œcie¿ka B³. Stefana Frelichowskiego #21;GC5CTED" + $_Crlf
+$caches = $caches + "22;T;Œcie¿ka B³. Stefana Frelichowskiego #22;GC5CDQG" + $_Crlf
+$seriesName = "Œcie¿ka B³. Stefana Frelichowskiego"
