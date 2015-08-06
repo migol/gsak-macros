@@ -1,0 +1,23 @@
+#*******************************************
+# MacDescription = Series definition for FSGPlugin_Series
+# MacFileName = FSGPlugin_Series_AeroEnigma.gsk
+# MacAuthor = migolnet
+# MacVersion = 1.00
+#*******************************************
+#-------------------------------------------------------------------------------
+# Series definition file for FSGPlugin_Series.gsk
+#
+# This fata file was created using DataFileCreator_for_FSGPlugin_Series.gsk V1.02
+#-------------------------------------------------------------------------------
+$caches = ""
+$caches = $caches + "01;U;Aero Enigma 1;GC600TM" + $_Crlf
+$caches = $caches + "02;U;Aero Enigma 2;GC600XC" + $_Crlf
+$caches = $caches + "03;U;Aero Enigma 3;GC600XV" + $_Crlf
+$caches = $caches + "04;U;Aero Enigma 4;GC600Y5" + $_Crlf
+$caches = $caches + "05;U;Aero Enigma 5;GC601WG" + $_Crlf
+$caches = $caches + "06;U;Aero Enigma 6;GC6038R" + $_Crlf
+$caches = $caches + "07;I;Aero Enigma 7;GC603BG" + $_Crlf
+$caches = $caches + "08;U;Aero Enigma 8;GC603FW" + $_Crlf
+$caches = $caches + "09;U;Aero Enigma 9;GC603GB" + $_Crlf
+$caches = $caches + "10;U;Aero Enigma 10;GC603GP" + $_Crlf
+$seriesName = "Aero Enigma"
