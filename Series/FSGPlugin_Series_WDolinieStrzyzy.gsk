@@ -1,0 +1,24 @@
+#*******************************************
+# MacDescription = Series definition for FSGPlugin_Series
+# MacFileName = FSGPlugin_Series_WDolinieStrzyzy.gsk
+# MacAuthor = migolnet
+# MacVersion = 1.00
+#*******************************************
+#-------------------------------------------------------------------------------
+# Series definition file for FSGPlugin_Series.gsk
+#
+# This fata file was created using DataFileCreator_for_FSGPlugin_Series.gsk V1.02
+#-------------------------------------------------------------------------------
+$caches = ""
+$caches = $caches + "01;T;W Dolinie Strzy퓓 1;GC4TF8T" + $_Crlf
+$caches = $caches + "02;T;W Dolinie Strzy퓓 2;GC4TF9A" + $_Crlf
+$caches = $caches + "03;T;W Dolinie Strzy퓓 3;GC4TF9J" + $_Crlf
+$caches = $caches + "04;T;W Dolinie Strzy퓓 4;GC4VE6J" + $_Crlf
+$caches = $caches + "05;T;W Dolinie Strzy퓓 5;GC50YMF" + $_Crlf
+$caches = $caches + "06;T;W Dolinie Strzy퓓 6;GC5286E" + $_Crlf
+$caches = $caches + "07;T;W Dolinie Strzy퓓 7;GC5287C" + $_Crlf
+$caches = $caches + "08;T;W Dolinie Strzy퓓 8;GC5288M" + $_Crlf
+$caches = $caches + "09;T;W Dolinie Strzy퓓 9;GC5289D" + $_Crlf
+$caches = $caches + "10;T;W Dolinie Strzy퓓 10;GC5289T" + $_Crlf
+$caches = $caches + "11;B;W Dolinie Strzy퓓 - BONUS;GC5D7QM" + $_Crlf
+$seriesName = "W Dolinie Strzy퓓"
