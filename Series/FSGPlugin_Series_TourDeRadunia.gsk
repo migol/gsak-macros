@@ -1,0 +1,55 @@
+#*******************************************
+# MacDescription = Series definition for FSGPlugin_Series
+# MacFileName = FSGPlugin_Series_TourDeRadunia.gsk
+# MacAuthor = migolnet
+# MacVersion = 1.00
+#*******************************************
+#-------------------------------------------------------------------------------
+# Series definition file for FSGPlugin_Series.gsk
+#
+# This fata file was created using DataFileCreator_for_FSGPlugin_Series.gsk V1.02
+#-------------------------------------------------------------------------------
+$caches = ""
+$caches = $caches + "01;T;Tour de Radunia #1;GC5569Q" + $_Crlf
+$caches = $caches + "02;T;Tour de Radunia #2;GC556A7" + $_Crlf
+$caches = $caches + "03;T;Tour de Radunia #3;GC556AG" + $_Crlf
+$caches = $caches + "04;T;Tour de Radunia #4;GC556AM" + $_Crlf
+$caches = $caches + "05;T;Tour de Radunia #5;GC556AR" + $_Crlf
+$caches = $caches + "06;T;Tour de Radunia #6;GC556AZ" + $_Crlf
+$caches = $caches + "07;T;Tour de Radunia #7;GC556B4" + $_Crlf
+$caches = $caches + "08;T;Tour de Radunia #8;GC556B7" + $_Crlf
+$caches = $caches + "09;T;Tour de Radunia #9;GC556B9" + $_Crlf
+$caches = $caches + "10;T;Tour de Radunia #10;GC556BE" + $_Crlf
+$caches = $caches + "11;T;Tour de Radunia #11;GC556BJ" + $_Crlf
+$caches = $caches + "12;T;Tour de Radunia #12;GC556BQ" + $_Crlf
+$caches = $caches + "13;T;Tour de Radunia #13;GC556BR" + $_Crlf
+$caches = $caches + "14;T;Tour de Radunia #14;GC556BT" + $_Crlf
+$caches = $caches + "15;T;Tour de Radunia #15;GC555M5" + $_Crlf
+$caches = $caches + "16;T;Tour de Radunia #16;GC55EXV" + $_Crlf
+$caches = $caches + "17;T;Tour de Radunia #17;GC55EY3" + $_Crlf
+$caches = $caches + "18;T;Tour de Radunia #18;GC55EYA" + $_Crlf
+$caches = $caches + "19;T;Tour de Radunia #19;GC55EYJ" + $_Crlf
+$caches = $caches + "20;T;Tour de Radunia #20;GC55EYP" + $_Crlf
+$caches = $caches + "21;T;Tour de Radunia #21;GC55EYV" + $_Crlf
+$caches = $caches + "22;T;Tour de Radunia #22;GC55EZ1" + $_Crlf
+$caches = $caches + "23;T;Tour de Radunia #23;GC55EZ5" + $_Crlf
+$caches = $caches + "24;T;Tour de Radunia #24;GC55EZ9" + $_Crlf
+$caches = $caches + "25;T;Tour de Radunia #25;GC55EZC" + $_Crlf
+$caches = $caches + "26;T;Tour de Radunia #26;GC55EZE" + $_Crlf
+$caches = $caches + "27;T;Tour de Radunia #27;GC55EZF" + $_Crlf
+$caches = $caches + "28;T;Tour de Radunia #28;GC55EZK" + $_Crlf
+$caches = $caches + "29;T;Tour de Radunia #29;GC5567R" + $_Crlf
+$caches = $caches + "30;T;Tour de Radunia #30;GC558PC" + $_Crlf
+$caches = $caches + "31;T;Tour de Radunia #31;GC558PN" + $_Crlf
+$caches = $caches + "32;T;Tour de Radunia #32;GC558Q1" + $_Crlf
+$caches = $caches + "33;T;Tour de Radunia #33;GC558Q7" + $_Crlf
+$caches = $caches + "34;T;Tour de Radunia #34;GC558QC" + $_Crlf
+$caches = $caches + "35;T;Tour de Radunia #35;GC558QH" + $_Crlf
+$caches = $caches + "36;T;Tour de Radunia #36;GC558T6" + $_Crlf
+$caches = $caches + "37;T;Tour de Radunia #37;GC558RZ" + $_Crlf
+$caches = $caches + "38;T;Tour de Radunia #38;GC558TD" + $_Crlf
+$caches = $caches + "39;T;Tour de Radunia #39;GC558TN" + $_Crlf
+$caches = $caches + "40;T;Tour de Radunia #40;GC558TR" + $_Crlf
+$caches = $caches + "41;T;Tour de Radunia #41;GC558TX" + $_Crlf
+$caches = $caches + "42;T;Tour de Radunia #42;GC558V2" + $_Crlf
+$seriesName = "Tour de Radunia"
