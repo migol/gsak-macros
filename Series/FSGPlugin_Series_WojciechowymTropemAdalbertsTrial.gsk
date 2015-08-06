@@ -1,0 +1,22 @@
+#*******************************************
+# MacDescription = Series definition for FSGPlugin_Series
+# MacFileName = FSGPlugin_Series_WojciechowymTropemAdalbertsTrial.gsk
+# MacAuthor = migolnet
+# MacVersion = 1.00
+#*******************************************
+#-------------------------------------------------------------------------------
+# Series definition file for FSGPlugin_Series.gsk
+#
+# This fata file was created using DataFileCreator_for_FSGPlugin_Series.gsk V1.02
+#-------------------------------------------------------------------------------
+$caches = ""
+$caches = $caches + "1;T;Wojciechowym tropem:1 / Adalbert's trial no:1;GC3MPFM" + $_Crlf
+$caches = $caches + "2;U;Wojciechowym tropem:2 / Adalbert's trial no:2;GC3MV37" + $_Crlf
+$caches = $caches + "3;M;Wojciechowym tropem:3 / Adalbert's trial no:3;GC3MV3H" + $_Crlf
+$caches = $caches + "4;T;Wojciechowym tropem:4;GC3MV3Q" + $_Crlf
+$caches = $caches + "5;T;Wojciechowym tropem:5 / Adalbert's trial no:5;GC3N1V1" + $_Crlf
+$caches = $caches + "6;M;Wojciechowym tropem:6;GC3NYBZ" + $_Crlf
+$caches = $caches + "7;T;Wojciechowym tropem:7;GC3PAN4" + $_Crlf
+$caches = $caches + "8;T;Wojciechowym tropem:8 / Adalbert's trial no:8;GC4RHCP" + $_Crlf
+$caches = $caches + "9;T;Wojciechowym tropem 9;GC47WEQ" + $_Crlf
+$seriesName = "Wojciechowym tropem / Adalbert's trial"

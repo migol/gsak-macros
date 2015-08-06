@@ -1,0 +1,18 @@
+#*******************************************
+# MacDescription = Series definition for FSGPlugin_Series
+# MacFileName = FSGPlugin_Series_HarcmistrzAlfLiczmanski.gsk
+# MacAuthor = migolnet
+# MacVersion = 1.00
+#*******************************************
+#-------------------------------------------------------------------------------
+# Series definition file for FSGPlugin_Series.gsk
+#
+# This fata file was created using DataFileCreator_for_FSGPlugin_Series.gsk V1.02
+#-------------------------------------------------------------------------------
+$caches = ""
+$caches = $caches + "1;T;Harcmistrz Alf Liczmanski #1;GC5BCKQ" + $_Crlf
+$caches = $caches + "2;T;Harcmistrz Alf Liczmanski #2;GC5ABTH" + $_Crlf
+$caches = $caches + "3;T;Harcmistrz Alf Liczmanski #3;GC5BGWC" + $_Crlf
+$caches = $caches + "4;T;Harcmistrz Alf Liczmanski #4;GC5CPPW" + $_Crlf
+$caches = $caches + "5;M;Harcmistrz Alf Liczmanski #5;GC5CPZZ" + $_Crlf
+$seriesName = "Harcmistrz Alf Liczmanski"
