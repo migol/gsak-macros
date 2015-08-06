@@ -1,0 +1,34 @@
+#*******************************************
+# MacDescription = Series definition for FSGPlugin_Series
+# MacFileName = FSGPlugin_Series_SciezkaBlMarianaGoreckiego.gsk
+# MacAuthor = migolnet
+# MacVersion = 1.00
+#*******************************************
+#-------------------------------------------------------------------------------
+# Series definition file for FSGPlugin_Series.gsk
+#
+# This fata file was created using DataFileCreator_for_FSGPlugin_Series.gsk V1.02
+#-------------------------------------------------------------------------------
+$caches = ""
+$caches = $caches + "01;T;Œcie¿ka B³. Mariana Góreckiego #1;GC5WTE4" + $_Crlf
+$caches = $caches + "02;T;Œcie¿ka B³. Mariana Góreckiego #2;GC5WTFB" + $_Crlf
+$caches = $caches + "03;T;Œcie¿ka B³. Mariana Góreckiego #3;GC5WTGR" + $_Crlf
+$caches = $caches + "04;T;œcie¿ka B³. Mariana Góreckiego #4;GC5WJKN" + $_Crlf
+$caches = $caches + "05;T;Œcie¿ka B³. Mariana Góreckiego #5;GC5WTHY" + $_Crlf
+$caches = $caches + "06;T;Œcie¿ka B³. Mariana Góreckiego #6;GC5WKBK" + $_Crlf
+$caches = $caches + "07;T;Œcie¿ka B³. Mariana Góreckiego #7;GC5WKBV" + $_Crlf
+$caches = $caches + "08;T;Œcie¿ka B³. Mariana Góreckiego #8;GC5WKC1" + $_Crlf
+$caches = $caches + "09;T;Œcie¿ka B³. Mariana Góreckiego #9;GC5WKC7" + $_Crlf
+$caches = $caches + "10;T;Œcie¿ka B³. Mariana Góreckiego #10;GC5WKCD" + $_Crlf
+$caches = $caches + "11;T;Œcie¿ka B³. Mariana Góreckiego #11;GC5WM87" + $_Crlf
+$caches = $caches + "12;T;Œcie¿ka B³. Mariana Góreckiego #12;GC5WM8H" + $_Crlf
+$caches = $caches + "13;T;Œcie¿ka B³. Mariana Góreckiego #13;GC5WM9M" + $_Crlf
+$caches = $caches + "14;T;Œcie¿ka B³. Mariana Góreckiego #15;GC5WMAK" + $_Crlf
+$caches = $caches + "15;T;Œcie¿ka B³. Mariana Góreckiego #16;GC5WRD7" + $_Crlf
+$caches = $caches + "16;T;Œcie¿ka B³. Mariana Góreckiego #17;GC5WRF8" + $_Crlf
+$caches = $caches + "17;T;Œcie¿ka B³. Mariana Góreckiego #18;GC5WRFF" + $_Crlf
+$caches = $caches + "18;T;Œcie¿ka B³. Mariana Góreckiego #19;GC5WRFR" + $_Crlf
+$caches = $caches + "19;T;Œcie¿ka B³. Mariana Góreckiego #20;GC5WRG3" + $_Crlf
+$caches = $caches + "20;T;Œcie¿ka B³. Mariana Góreckiego #21;GC5Y603" + $_Crlf
+$caches = $caches + "21;T;Œcie¿ka B³. Mariana Góreckiego #22;GC5Y60G" + $_Crlf
+$seriesName = "Œcie¿ka B³. Mariana Góreckiego"
